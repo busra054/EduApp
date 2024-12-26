@@ -1,0 +1,24 @@
+﻿@model WebApplication_Deneme.Models.User
+
+@{
+    ViewData["Title"] = "Profil";
+}
+
+<div class="container mt-5">
+    <h1>Profil Bilgileriniz</h1>
+    <p><strong>Ad:</strong> @Model.Name</p>
+    <p><strong>E-posta:</strong> @Model.Email</p>
+    <p><strong>Rol:</strong> @Model.Role</p>
+
+    <h2>Mesajlar</h2>
+    <div class="list-group">
+        @foreach (var message in Model.SentMessages.Concat(Model.ReceivedMessages).OrderByDescending(m => m.SentDate))
+        {
+            <div class="list-group-item">
+                <strong>@(message.SenderId == Model.Id ? "Sizden" : "Alıcı"):</strong> @message.MessageText
+                <br />
+                <small>@message.SentDate.ToString("dd/MM/yyyy HH:mm")</small>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "";
+}
+
+<head>
+    <link href="~/css/login.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <link href="~/css/Login.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    @if (ViewBag.Message != null)
+    {
+        <script>
+            alert('@ViewBag.Message');
+        </script>
+    }
+
+    <div class="main-container">
+        <h1>Giriş Yap</h1>
+        <form method="post">
+            <div class="input-box">
+                <span class="icon">
+                    <i class='bx bxs-envelope'></i>
+                </span>
+                <input type="email" placeholder="E-posta" required name="Email" />
+            </div>
+            <div class="input-box">
+                <span class="icon">
+                    <i class='bx bxs-lock-alt'></i>
+                </span>
+                <input type="password" placeholder="Şifre" required name="Password" />
+            </div>
+            <div class="check">
+                <label><input type="checkbox" />Beni hatırla</label>
+                <a href="#">Şifrenizi mi unuttunuz?</a>
+            </div>
+            <button type="submit" class="btn-login">Giriş yap</button>
+            <div class="register">
+                <p>Don't have an account? <a asp-controller="Register" asp-action="Index" class="register-link">Sign Up</a></p>
+            </div>
+        </form>
+    </div>
+</body>
