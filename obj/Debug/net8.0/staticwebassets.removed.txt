@@ -1,2 +1,0 @@
-C:\Users\bsra4\OneDrive\Masaüstü\WebDockerProje\WebApplication_Deneme\wwwroot\css\Giris.css
-C:\Users\bsra4\OneDrive\Masaüstü\WebDockerProje\WebApplication_Deneme\wwwroot\css\Kayit.css

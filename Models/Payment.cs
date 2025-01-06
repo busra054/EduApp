@@ -1,7 +1,10 @@
-﻿namespace WebApplication_Deneme.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebApplication_Deneme.Models
 {
     public class Payment
     {
+        [Key]
         public int Id { get; set; }
         public int UserId { get; set; }
         public int PackageId { get; set; }

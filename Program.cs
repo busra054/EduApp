@@ -1,22 +1,38 @@
 using WebApplication_Deneme.DataAccess;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using WebApplication_Deneme.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<ApplicationDbContext>();
-builder.Services.AddHttpClient();
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")).EnableSensitiveDataLogging()); // Use connection string from appsettings.json
 
-// Authentication ve Authorization middleware eklenmesi
+// Add Identity services for UserManager, SignInManager, etc.
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+// Cookie tabanlý kimlik doðrulama yapýlandýrmasý
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.LoginPath = "/Login/Index";
-        options.LogoutPath = "/Logout/Index";
-        options.AccessDeniedPath = "/Home/AccessDenied";
+        options.LoginPath = "/Account/Index";  // Giriþ sayfasý
     });
+
+// Session desteði ekleniyor (kullanýcý bilgilerini tutabilmek için)
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(60); // Oturum süresi
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 
@@ -34,6 +50,8 @@ app.UseRouting();
 
 app.UseAuthentication(); // Authentication middleware
 app.UseAuthorization(); // Authorization middleware
+app.UseSession(); // Session middleware'ini burada ekleyin
+
 
 app.MapControllerRoute(
     name: "default",

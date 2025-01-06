@@ -1,7 +1,10 @@
-﻿namespace WebApplication_Deneme.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebApplication_Deneme.Models
 {
     public class Message
     {
+        [Key]
         public int Id { get; set; }
         public int SenderId { get; set; }
         public int ReceiverId { get; set; }

@@ -1,6 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Sign Up";
-    Layout = "";
+    Layout = "_Layout";
 }
 
 <head>
@@ -22,7 +22,7 @@
 
     <div class="main-container">
         <h1>Sign Up</h1>
-        <form method="post" action="@Url.Action("Index", "Register")" onsubmit="return Validate(event)">
+        <form method="post" action="@Url.Action("Create", "Users")" onsubmit="return Validate(event)">
             <div class="input-box">
                 <span class="icon"><i class='bx bxs-user'></i></span>
                 <input id="name" type="text" placeholder="Name" name="name" required />

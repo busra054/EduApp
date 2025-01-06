@@ -3,172 +3,114 @@
   "WorkspaceRootPath": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\logout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\logout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\payment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\payment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\teacherbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\teacherbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\migrations\\20241216132014_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:migrations\\20241216132014_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_1433/EducationDB2/SA/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestDetails\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\RequestDetails\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5AEDAA8-2DA9-4FE5-8AC4-0BD0CB6CDDC3}|..\\WebApplication_Deneme.Domain\\WebApplication_Deneme.Domain.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme.domain\\webapplication_deneme.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\Alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestList\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\RequestList\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Profile\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Profile\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\NewRequest\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\NewRequest\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\WarningAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\Alerts\\WarningAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\InfoAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\Alerts\\InfoAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\SuccessAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\Alerts\\SuccessAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\ErrorAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\Alerts\\ErrorAlert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GoogleMap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\GoogleMap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\packages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\packages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GenericForm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\GenericForm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\packages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\packages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\CreditCard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Partials\\CreditCard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|c:\\users\\bsra4\\onedrive\\masa\u00FCst\u00FC\\webdockerproje\\webapplication_deneme\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7390F07-4F1F-4D69-B7E4-E4C188551C88}|WebApplication_Deneme.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,519 +120,351 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:11:20.456Z",
+              "DocumentIndex": 14,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_1433/EducationDB2/SA/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_1433/EducationDB2/SA/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-05T14:32:50.524Z",
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T16:44:23.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Register\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Register\\Index.cshtml",
-              "RelativeToolTip": "Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:57:09.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "home.css",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\home.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\home.css",
-              "RelativeToolTip": "wwwroot\\css\\home.css",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-26T16:48:23.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-26T16:50:00.651Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Register.css",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Register.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Register.css",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Register.css",
-              "RelativeToolTip": "wwwroot\\css\\Register.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-26T09:48:11.763Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T14:52:55.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:53:06.556Z",
+              "WhenOpened": "2025-01-03T18:08:12.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Logout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Logout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Logout\\Index.cshtml",
-              "RelativeToolTip": "Views\\Logout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:17:28.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Profile\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Profile\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Profile\\Profile.cshtml",
-              "RelativeToolTip": "Views\\Profile\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T16:47:57.359Z",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:26:49.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:19:09.676Z",
+              "WhenOpened": "2025-01-05T14:54:18.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Payment\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Payment\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Payment\\Index.cshtml",
-              "RelativeToolTip": "Views\\Payment\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T16:45:10.09Z"
+              "WhenOpened": "2025-01-05T11:28:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T15:03:26.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "payment.css",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\payment.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\payment.css",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\payment.css",
-              "RelativeToolTip": "wwwroot\\css\\payment.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-26T16:46:10.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:36:54.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:06:27.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Payment.cs",
-              "RelativeToolTip": "Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:07:56.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T09:29:12.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T09:14:35.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "Controllers\\RegisterController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwC8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:38:58.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:37:47.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T09:14:19.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Home\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Home\\AccessDenied.cshtml",
-              "RelativeToolTip": "Views\\Home\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T09:08:31.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:18:57.962Z"
+              "WhenOpened": "2025-01-05T15:43:22.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TeacherBranch.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\TeacherBranch.cs",
-              "RelativeDocumentMoniker": "Models\\TeacherBranch.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\TeacherBranch.cs",
-              "RelativeToolTip": "Models\\TeacherBranch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:08:02.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:08:08.311Z"
+              "WhenOpened": "2025-01-05T11:53:07.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Appointment.cs",
-              "RelativeToolTip": "Models\\Appointment.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:07:24.029Z"
+              "WhenOpened": "2025-01-05T13:32:19.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Models\\Branch.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Branch.cs",
-              "RelativeToolTip": "Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:07:37.136Z"
+              "DocumentIndex": 8,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-05T13:45:26.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:52:29.5Z"
+              "WhenOpened": "2025-01-03T18:06:14.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestDetails\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\RequestDetails\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestDetails\\Index.cshtml",
-              "RelativeToolTip": "Views\\RequestDetails\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:58:19.302Z"
+              "WhenOpened": "2025-01-03T18:05:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T18:10:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.css",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Create.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Create.css",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\Create.css",
+              "RelativeToolTip": "wwwroot\\css\\Create.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T14:28:04.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T13:32:01.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebApplication_Deneme.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme.Domain\\WebApplication_Deneme.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\WebApplication_Deneme.Domain\\WebApplication_Deneme.Domain.csproj",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme.Domain\\WebApplication_Deneme.Domain.csproj",
+              "RelativeToolTip": "..\\WebApplication_Deneme.Domain\\WebApplication_Deneme.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T13:28:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AgIAAMYAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T11:58:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T11:59:19.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:28:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:27:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:28:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:27:33.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:26:08.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T18:11:07.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "20241216132014_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Migrations\\20241216132014_mig1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241216132014_mig1.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Migrations\\20241216132014_mig1.cs",
-              "RelativeToolTip": "Migrations\\20241216132014_mig1.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAQwOkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:20:44.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Alert.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alert.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\Alert.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alert.cshtml",
-              "RelativeToolTip": "Views\\Partials\\Alert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Packages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Packages\\Create.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:54:28.928Z"
+              "WhenOpened": "2025-01-03T18:03:05.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestList\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\RequestList\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\RequestList\\Index.cshtml",
-              "RelativeToolTip": "Views\\RequestList\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Packages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Packages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Packages\\Index.cshtml",
+              "RelativeToolTip": "Views\\Packages\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:00:00.404Z"
+              "WhenOpened": "2025-01-03T18:02:51.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:56:38.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\NewRequest\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\NewRequest\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\NewRequest\\Index.cshtml",
-              "RelativeToolTip": "Views\\NewRequest\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:53:40.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "WarningAlert.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\WarningAlert.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\Alerts\\WarningAlert.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\WarningAlert.cshtml",
-              "RelativeToolTip": "Views\\Partials\\Alerts\\WarningAlert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:55:03.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "InfoAlert.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\InfoAlert.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\Alerts\\InfoAlert.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\InfoAlert.cshtml",
-              "RelativeToolTip": "Views\\Partials\\Alerts\\InfoAlert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:55:01.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "SuccessAlert.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\SuccessAlert.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\Alerts\\SuccessAlert.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\SuccessAlert.cshtml",
-              "RelativeToolTip": "Views\\Partials\\Alerts\\SuccessAlert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:55:02.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ErrorAlert.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\ErrorAlert.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\Alerts\\ErrorAlert.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\Alerts\\ErrorAlert.cshtml",
-              "RelativeToolTip": "Views\\Partials\\Alerts\\ErrorAlert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:54:58.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "GoogleMap.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GoogleMap.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\GoogleMap.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GoogleMap.cshtml",
-              "RelativeToolTip": "Views\\Partials\\GoogleMap.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:54:52.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "GenericForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GenericForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\GenericForm.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\GenericForm.cshtml",
-              "RelativeToolTip": "Views\\Partials\\GenericForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:54:40.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CreditCard.cshtml",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\CreditCard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Partials\\CreditCard.cshtml",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Views\\Partials\\CreditCard.cshtml",
-              "RelativeToolTip": "Views\\Partials\\CreditCard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T16:54:35.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Package.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Package.cs",
-              "RelativeDocumentMoniker": "Models\\Package.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Package.cs",
-              "RelativeToolTip": "Models\\Package.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:07:51.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "Models\\Message.cs",
-              "ToolTip": "C:\\Users\\bsra4\\OneDrive\\Masa\u00FCst\u00FC\\WebDockerProje\\WebApplication_Deneme\\Models\\Message.cs",
-              "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:07:46.101Z"
+              "WhenOpened": "2025-01-03T17:41:09.608Z"
             }
           ]
         }

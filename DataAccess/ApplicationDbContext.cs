@@ -5,6 +5,11 @@ namespace WebApplication_Deneme.DataAccess
 {
     public class ApplicationDbContext : DbContext
     {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
+        {
+
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
@@ -18,6 +23,7 @@ namespace WebApplication_Deneme.DataAccess
         public DbSet<Package> Packages { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<Message> Messages { get; set; }
+        public DbSet<Admin> Admins { get; set; }    
 
      
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -95,6 +101,7 @@ namespace WebApplication_Deneme.DataAccess
                 .HasForeignKey(m => m.ReceiverId)
                 .OnDelete(DeleteBehavior.NoAction);
         }
+        public DbSet<WebApplication_Deneme.Models.Course> Course { get; set; } = default!;
 
     }
 }
