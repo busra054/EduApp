@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebApplication_Deneme.Models;
-using WebApplication_Deneme.DataAccess;
+using WebApplication_Infrastructure.Data;
+using WebApplication_Domain.Entities;
 using BCrypt.Net; // Şifre doğrulama için
 using Microsoft.AspNetCore.Identity;
+
 
 namespace WebApplication_Deneme.Controllers
 {

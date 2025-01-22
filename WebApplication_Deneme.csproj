@@ -17,7 +17,6 @@
   <ItemGroup>
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.11" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.39" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.11">
@@ -31,6 +30,16 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
     <PackageReference Include="Remote.Linq.Newtonsoft.Json" Version="7.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApplication_Application\WebApplication_Application.csproj" />
+    <ProjectReference Include="..\WebApplication_Domain\WebApplication_Domain.csproj" />
+    <ProjectReference Include="..\WebApplication_Infrastructure\WebApplication_Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="..\WebApplication_Infrastructure\Data\" />
   </ItemGroup>
 
 </Project>

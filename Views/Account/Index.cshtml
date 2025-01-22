@@ -75,12 +75,21 @@
 											<span asp-validation-for="Password" class="text-danger"></span> <!-- PasswordHash alanının hatası -->
 										</span>
 										<span>
-											<input type="text" class="form" placeholder="Role" name="Role" asp-for="Role" autocomplete="off" />
-											<span asp-validation-for="Role" class="text-danger"></span> <!-- Role alanının hatası -->
+											<select class="form" name="Role" asp-for="Role">
+												<option value="">Select Role</option>
+												<option value="Öğrenci">Öğrenci</option>
+												<option value="Öğretmen">Öğretmen</option>
+											</select> <!-- Role alanının hatası -->
 										</span>
 									</div>
 									<div class="text-center">
 										<button type="submit" class="btn btn-primary btn-wd btn-lg">Log in</button>
+									</div>
+									<div class="text-center mt-3">
+										<p>
+											Don't have an account?
+											<a asp-controller="Users" asp-action="Create" class="text-primary">Sign up</a>
+										</p>
 									</div>
 								</form>
 							</div>

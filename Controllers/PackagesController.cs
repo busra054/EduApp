@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using WebApplication_Deneme.DataAccess;
-using WebApplication_Deneme.Models;
+using WebApplication_Infrastructure.Data;
+using WebApplication_Domain.Entities;
 
 namespace WebApplication_Deneme.Controllers
 {
@@ -23,6 +23,12 @@ namespace WebApplication_Deneme.Controllers
         public async Task<IActionResult> Index()
         {
             return View(await _context.Packages.ToListAsync());
+        }
+
+        public async Task<IActionResult> PackageDesign()
+        {
+            var packages = await _context.Packages.ToListAsync();
+            return View(packages);
         }
 
         // GET: Packages/Details/5

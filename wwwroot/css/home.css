@@ -8,8 +8,8 @@ html, body, #layout-render-body{
     height: 100%;
 }
 
-body{
-    background-color: #E5F9F8;
+body {
+    background-color: #007bff;
 }
 
 #home-fold-container{
@@ -165,7 +165,7 @@ body{
 
 /* Banner Bölümü */
 #banner {
-    background-image: url('../img/Boy.jpg'); /* Arka plan resmi */
+    background-image: url('../img/MainPage.jpeg'); /* Arka plan resmi */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Tam ekran yüksekliği */
@@ -219,4 +219,52 @@ body{
     .banner-text p {
         font-size: 1.2em;
     }
+}
+
+#banner {
+    display: flex;
+    flex-direction: column; /* Dikey olarak sıralayın */
+    justify-content: center; /* Yatayda ortala */
+    align-items: center; /* Yatayda ortala */
+    min-height: 50vh; /* Ekran yüksekliğinin en az yarısı kadar olsun */
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom:10px;
+}
+
+.banner-text {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    text-align: center; /* Metni ortala */
+
+}
+
+.banner-btn {
+    margin-top: 145px;
+    display: flex; /* Butonları yan yana göstermek için */
+    justify-content: center; /* Butonları ortala */
+    gap: 10px;
+}
+
+.btn.rounded-pill { /* Butonların daha da yuvarlak olması için */
+    border-radius: 50rem;
+    padding: 10px 20px; /* Buton iç boşluklarını ayarladım */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Mavi renk */
+    border-color: #007bff;
+}
+
+.btn-secondary {
+    background-color: #6c757d; /* Gri renk */
+    border-color: #6c757d;
+}
+
+.btn i {
+    font-size: 1.2rem; /* İkon boyutunu ayarladım */
 }

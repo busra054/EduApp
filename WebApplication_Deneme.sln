@@ -5,11 +5,11 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Deneme", "WebApplication_Deneme.csproj", "{F7390F07-4F1F-4D69-B7E4-E4C188551C88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Deneme.Domain", "..\WebApplication_Deneme.Domain\WebApplication_Deneme.Domain.csproj", "{A5AEDAA8-2DA9-4FE5-8AC4-0BD0CB6CDDC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Domain", "..\WebApplication_Domain\WebApplication_Domain.csproj", "{A5AEDAA8-2DA9-4FE5-8AC4-0BD0CB6CDDC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Deneme.Application", "..\WebApplication_Deneme.Application\WebApplication_Deneme.Application.csproj", "{96C6806C-94E0-41CA-B217-4AFDE97AAFE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Application", "..\WebApplication_Application\WebApplication_Application.csproj", "{96C6806C-94E0-41CA-B217-4AFDE97AAFE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Deneme.Infrastructure", "..\WebApplication_Deneme.Infrastructure\WebApplication_Deneme.Infrastructure.csproj", "{B6D35ABC-5282-42E0-B888-BCCE019A0AB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Infrastructure", "..\WebApplication_Infrastructure\WebApplication_Infrastructure.csproj", "{B6D35ABC-5282-42E0-B888-BCCE019A0AB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

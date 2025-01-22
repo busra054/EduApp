@@ -1,15 +1,14 @@
-using WebApplication_Deneme.DataAccess;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using WebApplication_Deneme.Models;
+using WebApplication_Domain.Entities;
+using WebApplication_Infrastructure.Data;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 // Add services to the container.
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")).EnableSensitiveDataLogging()); // Use connection string from appsettings.json

@@ -1,47 +1,57 @@
-﻿@model WebApplication_Deneme.Models.Payment
+﻿@model WebApplication_Domain.Entities.Payment
 
 @{
     ViewData["Title"] = "Create";
-    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    Layout = "";
 }
 
-<h1>Create</h1>
+<html>
+<head>
+    <title> Create Mobile Payment Page Design </title>
+    <link rel="stylesheet" href="~/css/Payment.css">
+</head>
+<body>
+    <div class="app-container">
+        <div class="top-box">
+            <p><span class="left-icon">&#x2196;</span>CHECKOUT<span class="right-icon">&#xb7;&#xb7;&#xb7;</span></p>
+        </div>
 
-<h4>Payment</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="UserId" class="control-label"></label>
-                <select asp-for="UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
+        <div class="middle-box">
+            <h1>1599<span>$</span></h1>
+            <p>Pay To xyz Company Ltd</p>
+        </div>
+
+        <div class="card-details">
+            <p>Pay using credit or debit card</p>
+            <div class="card-num-field-group">
+                <label>Card Number</label><br>
+                <input type="text" class="card-num-field" placeholder="xxxx-xxxx-xxxx-xxxx">
             </div>
-            <div class="form-group">
-                <label asp-for="PackageId" class="control-label"></label>
-                <select asp-for="PackageId" class ="form-control" asp-items="ViewBag.PackageId"></select>
+
+            <div class="date-field-group">
+                <label>Expiry Date</label><br>
+                <input type="text" class="date-field" placeholder="mm">
+                <input type="text" class="date-field" placeholder="yyyy">
             </div>
-            <div class="form-group">
-                <label asp-for="PaymentDate" class="control-label"></label>
-                <input asp-for="PaymentDate" class="form-control" />
-                <span asp-validation-for="PaymentDate" class="text-danger"></span>
+
+            <div class="cvc-field-group">
+                <label>CVC</label><br>
+                <input type="password" class="cvc-field" placeholder="xxx">
             </div>
-            <div class="form-group">
-                <label asp-for="Amount" class="control-label"></label>
-                <input asp-for="Amount" class="form-control" />
-                <span asp-validation-for="Amount" class="text-danger"></span>
+
+            <div class="name-field-group">
+                <label>Card Holder Name</label><br>
+                <input type="text" class="name-field" placeholder="Full Name">
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+
+            <button type="button" class="pay-btn">Pay Now</button>
+
+        </div>
+
     </div>
-</div>
+</body>
+</html>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
-@section Scripts {
+@* @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
+} *@

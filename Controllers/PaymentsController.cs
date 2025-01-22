@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using WebApplication_Deneme.DataAccess;
-using WebApplication_Deneme.Models;
+using WebApplication_Infrastructure.Data;
+using WebApplication_Domain.Entities;
 
 namespace WebApplication_Deneme.Controllers
 {
